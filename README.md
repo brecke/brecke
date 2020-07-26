@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 Hi! My name is Miguel Laginha and I'm a software engineer. I work remotely on the Open Academic Environment project by Apereo, a US-based open source foundation focused on Higher Education. 
 
 Feel free to check out my [resume](https://github.com/brecke/resume) and [visualized resume](https://github.com/brecke/resume-visualized).
-
-![](https://img.shields.io/twitter/follow/brecke?label=follow%20me&style=for-the-badge)
-![](https://img.shields.io/github/followers/brecke?style=for-the-badge)
