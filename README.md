@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Miguel Laginha and I'm a software engineer. I work remotely on the Open Academic Environment project by Apereo, a US-based open source foundation focused on Higher Education. 
+Hi! My name is Miguel Laginha and I'm a software engineer. I work remotely since 2015 from Coimbra, Portugal.
 
 Feel free to check out my [resume](https://github.com/brecke/resume) and [visualized resume](https://github.com/brecke/resume-visualized).
