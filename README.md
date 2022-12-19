@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Miguel Laginha and I'm a software engineer. I work remotely since 2015 from Coimbra, Portugal.
+Hi! My name is Miguel Laginha and I'm a software engineer. I have worked remotely since 2015 from Coimbra, Portugal.
 
 Feel free to check out my [resume](https://github.com/brecke/resume) and [visualized resume](https://github.com/brecke/resume-visualized).
